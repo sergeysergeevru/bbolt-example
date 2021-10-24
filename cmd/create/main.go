@@ -30,7 +30,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println("the data updated")
+	fmt.Println("the data has been updated")
 }
 
 
